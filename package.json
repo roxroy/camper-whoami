@@ -1,0 +1,26 @@
+{
+  "name": "camper-whoami",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roxroy/camper-whoami.git"
+  },
+  "keywords": [
+    "microservice",
+    "node"
+  ],
+  "author": "roxroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roxroy/camper-whoami/issues"
+  },
+  "homepage": "https://github.com/roxroy/camper-whoami#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
