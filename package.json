@@ -22,6 +22,7 @@
   "homepage": "https://github.com/roxroy/camper-whoami#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "express-useragent": "^1.0.7"
+    "express-useragent": "^1.0.7",
+    "pug": "^2.0.0-beta11"
   }
 }
